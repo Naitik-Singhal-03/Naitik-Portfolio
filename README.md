@@ -28,3 +28,8 @@ This portfolio website serves as a showcase of my projects, skills, and experien
 - [Remix Icon](https://remixicon.com/) for icons
 - [ScrollReveal.js](https://scrollrevealjs.org/) for scroll animations
 
+## How to Use
+
+1. Clone the repository: `git clone https://github.com/Naitik-Singhal-03/Your-Portfolio-Repository.git`
+2. Navigate to the project directory: `cd Your-Portfolio-Repository`
+3. Open `index.html` in your web browser.
