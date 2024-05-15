@@ -1,6 +1,6 @@
 # Naitik Singhal Portfolio
 
-Welcome to my personal portfolio repository! This repository contains the source code for my portfolio website showcasing my projects, skills, and more.
+Welcome to my __Instagram Themed__ personal portfolio repository! This repository contains the source code for my portfolio website showcasing my projects, skills, and more.
 
 ## Table of Contents
 
